@@ -22,8 +22,3 @@ a relação entre desemprego e inflação ao longo do tempo.
 pip install -r requirements.txt
 jupyter notebook final_analysis.ipynb
 ```
-
-## Autores
-
-- Beatriz Vaz Pedroso Santos Cobral
-- Felipe Tagawa
